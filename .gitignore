@@ -1,0 +1,25 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary exports and drafts
+*.tmp
+*.bak
+~$*.docx
+
+# Build/export folders
+exports/
+build/
+dist/
+
+# Large design/source files should be added intentionally
+*.psd
+*.ai
+*.indd
