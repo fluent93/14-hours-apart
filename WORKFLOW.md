@@ -90,3 +90,16 @@ Only then begin drafting full chapters.
 ## Privacy Rule
 
 Do not put highly identifying real-life material into GitHub unless it has been fictionalized or the author explicitly decides it belongs there.
+## Google Drive MCP Option
+
+This project is prepared for direct Google Drive reading through a Codex MCP server named `gdrive`. See `GOOGLE_DRIVE_MCP_SETUP.md`.
+
+Recommended use:
+
+1. Draft the original episode in a dedicated Google Drive folder.
+2. Ask Codex to read the selected Google Doc through `gdrive`.
+3. Codex creates the cleaned Markdown episode, scene card, and outline placement.
+4. Codex commits the structured project files to GitHub.
+
+Keep OAuth credentials and unfictionalized sensitive source material out of GitHub.
+
