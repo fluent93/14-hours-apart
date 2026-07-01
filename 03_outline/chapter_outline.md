@@ -4,6 +4,8 @@ Placeholder outline with 24 possible chapters. This should evolve as raw episode
 
 Note: chapter placement is provisional. Episode numbers record the order material was collected, not the final chapter order. Reordering is expected after enough episodes exist.
 
+Location priority: the present-day story belongs to Seoul and New York. New Jersey material should remain flashback/origin material unless the structure later deliberately changes.
+
 ## Act 1 - The Reconnection
 
 ### Chapter 1 - Seoul After Midnight

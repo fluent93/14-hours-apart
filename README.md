@@ -8,7 +8,7 @@ Long-form English novel project for Amazon KDP / Kindle.
 - Language: English
 - Target platform: Amazon KDP / Kindle
 - Genre: second-chance romance, contemporary romantic fiction, mature cross-cultural romance
-- Core settings: present-day Seoul and New York, with flashbacks to a fictional New Jersey state university
+- Core settings: present-day Seoul and New York; New Jersey appears mainly as selective origin flashback material
 - Commercial positioning: an English-language second-chance long-distance romance, not a memoir and not a translation of any prior Korean book
 
 ## Core Question

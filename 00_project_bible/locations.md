@@ -71,3 +71,7 @@ Possible placeholder names:
 - North Jersey State
 - Raritan State College
 - Hudson-Raritan University
+
+## Location Priority Rule
+
+The reader should experience the novel primarily as a Seoul/New York story. New Jersey is not the main stage; it is the memory field where the relationship began. Flashbacks should be selective and should intensify present-day Seoul/New York choices.

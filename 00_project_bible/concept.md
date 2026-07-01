@@ -2,7 +2,7 @@
 
 ## Logline
 
-Twenty years after a brief, unfinished love at a New Jersey university, Nathan Kim in Seoul and Elaine Park in New York reconnect across a fourteen-hour time difference and discover that loving each other may be easier than changing the lives they built apart.
+Nathan Kim in Seoul and Elaine Park in New York reconnect across a fourteen-hour time difference, twenty years after a brief, unfinished love that began at a fictional New Jersey university. The main dramatic engine is Seoul and New York: two complete adult lives, two cities, two time zones, and the cost of changing anything now.
 
 ## Core Premise
 
@@ -28,3 +28,14 @@ This is a mature second-chance romance with literary restraint and commercial re
 - Not a revenge story
 - Not a simple fantasy of escape
 - Not a story where one person exists only as the other's lost dream
+
+
+## Story Geography
+
+The present-day novel should feel anchored in Seoul and New York. New Jersey is important as the origin of the wound and attraction, but it should function mostly through selective flashbacks and memory pressure.
+
+Reader-facing priority:
+
+1. Seoul: Nathan's present obligations, fatigue, family/career pressure, and night-time vulnerability.
+2. New York: Elaine's independence, authority, public competence, and morning-life contrast.
+3. New Jersey: the past that explains why the present connection is dangerous.
