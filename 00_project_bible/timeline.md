@@ -7,6 +7,7 @@
 - Nathan graduates from a Korean university and completes mandatory military service.
 - Nathan goes to the United States for later study.
 - Nathan and Elaine meet at a fictional New Jersey state university.
+- Nathan and Elaine share their first kiss after a house dinner and karaoke night near the university.
 - Their relationship is brief, intense, and unresolved.
 - Misunderstanding, immaturity, timing, or unspoken fear separates them.
 - Nathan returns to Korea and builds his life in Seoul.

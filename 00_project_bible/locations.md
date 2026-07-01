@@ -47,6 +47,11 @@ Use through:
 - Public competence and private fatigue
 - Messages received when Seoul should be asleep
 
+
+### Korean Enclave Texture
+
+Northern New Jersey and Queens can appear in flashbacks through Korean restaurants, markets, salons, karaoke rooms, and late-night food culture. Use this as immigrant/social texture, not as a new main stage. The present-day dramatic center remains Seoul and New York.
+
 ## Fictional New Jersey State University
 
 Past setting.

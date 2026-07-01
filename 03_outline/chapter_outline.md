@@ -40,6 +40,12 @@ Possible function: establish Nathan's loneliness before attraction, place Elaine
 
 A past scene shows attraction complicated by language, timing, pride, or cultural misreading.
 
+Provisional source episode: `002_first_kiss`.
+
+Provisional scene shape: A second house dinner leads to karaoke, where Nathan sees Elaine's bodily confidence and American ease more clearly. Later, he walks her to her dorm while Victor waits in the car, and the first kiss becomes longer, more private, and more consequential than Nathan expected.
+
+Possible function: escalate attraction into physical intimacy while revealing cultural misreading through music, language switching, dancing, alcohol, and the pre-smartphone logistics of being unreachable.
+
 ### Chapter 7 - The Call That Should Have Ended
 
 In the present, a short call stretches beyond what either expected.
