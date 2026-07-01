@@ -10,9 +10,9 @@ Place, season, time, weather, clothes, sounds, smells, objects, gestures.
 
 ## 3. Emotional Truth
 
-What did Daniel feel?
+What did Nathan feel?
 
-What might Grace have felt?
+What might Elaine have felt?
 
 What was not said?
 
@@ -26,11 +26,13 @@ What must be changed for privacy?
 
 Names, places, jobs, institutions, dates, sequence, dialogue.
 
-## 6. Possible Use in Novel
+## 6. Provisional Use in Novel
 
-Act:
+Possible act:
 
-Chapter:
+Possible chapter:
+
+Note: This is a placement candidate, not final chapter order.
 
 Scene function:
 

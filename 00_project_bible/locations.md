@@ -2,7 +2,7 @@
 
 ## Seoul
 
-Present-day Daniel setting.
+Present-day Nathan setting.
 
 Represents:
 
@@ -26,7 +26,7 @@ Use through:
 
 ## New York
 
-Present-day Grace setting.
+Present-day Elaine setting.
 
 Represents:
 

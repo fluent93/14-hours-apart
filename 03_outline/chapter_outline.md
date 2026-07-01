@@ -2,29 +2,37 @@
 
 Placeholder outline with 24 possible chapters. This should evolve as raw episodes and scene cards are added.
 
+Note: chapter placement is provisional. Episode numbers record the order material was collected, not the final chapter order. Reordering is expected after enough episodes exist.
+
 ## Act 1 - The Reconnection
 
 ### Chapter 1 - Seoul After Midnight
 
-Daniel's present life in Seoul: late work, controlled fatigue, a routine that looks successful and feels narrow.
+Nathan's present life in Seoul: late work, controlled fatigue, a routine that looks successful and feels narrow.
 
 ### Chapter 2 - The Name On The Screen
 
-An alumni-related trigger or professional post brings Grace back into Daniel's present.
+An alumni-related trigger or professional post brings Elaine back into Nathan's present.
 
-### Chapter 3 - Grace In Morning Light
+### Chapter 3 - Elaine In Morning Light
 
-Grace's New York life: competent, independent, admired, and privately guarded.
+Elaine's New York life: competent, independent, admired, and privately guarded.
 
 ### Chapter 4 - First Message
 
-Daniel sends, or nearly sends, a casual message. The exchange is small, polite, and emotionally charged.
+Nathan sends, or nearly sends, a casual message. The exchange is small, polite, and emotionally charged.
 
 ## Act 2 - The Past Returns
 
 ### Chapter 5 - New Jersey, Years Ago
 
-Flashback to the fictional state university and the first moment Daniel notices Grace.
+Flashback to the fictional state university and the first moment Nathan notices Elaine.
+
+Provisional source episode: `001_first_meeting`.
+
+Provisional scene shape: Nathan arrives in America as an older undergraduate after abandoning his original Korean academic path. He is isolated by age, language, and cultural distance. In a shared house near campus, an older Korean graduate student arranges a dinner with several Korean American or immigrant women from a Korea-related class. Nathan helps with the food, not fully understanding the older student's motives. Elaine arrives with the group, and Nathan notices her immediately.
+
+Possible function: establish Nathan's loneliness before attraction, place Elaine's first appearance inside a socially uneasy setting, and avoid turning the flashback into a simple meet-cute.
 
 ### Chapter 6 - Translation Problems
 
@@ -36,7 +44,7 @@ In the present, a short call stretches beyond what either expected.
 
 ### Chapter 8 - What They Remember Differently
 
-Alternating memories reveal that Daniel and Grace have carried different versions of the same past.
+Alternating memories reveal that Nathan and Elaine have carried different versions of the same past.
 
 ### Chapter 9 - The First Loss
 
@@ -70,13 +78,13 @@ A flashback reframes a key misunderstanding from their university years.
 
 ## Act 4 - The Lives They Built
 
-### Chapter 16 - Grace's Office Door
+### Chapter 16 - Elaine's Office Door
 
-Grace's academic responsibilities become concrete: students, faculty, reputation, obligations.
+Elaine's academic responsibilities become concrete: students, faculty, reputation, obligations.
 
-### Chapter 17 - Daniel's Table
+### Chapter 17 - Nathan's Table
 
-Daniel faces Seoul-based family or professional obligations that cannot be casually abandoned.
+Nathan faces Seoul-based family or professional obligations that cannot be casually abandoned.
 
 ### Chapter 18 - The Missed Window
 
@@ -98,7 +106,7 @@ The other character recognizes the old pattern repeating: silence mistaken for c
 
 ### Chapter 22 - No More Translation
 
-Daniel and Grace speak plainly about the past and present, without using culture, duty, or time as cover.
+Nathan and Elaine speak plainly about the past and present, without using culture, duty, or time as cover.
 
 ### Chapter 23 - The Life That Moves
 

@@ -14,7 +14,7 @@
 
 Preferred default: close third person.
 
-Use Daniel or Grace as POV depending on scene pressure. Alternate when useful, but avoid mechanical switching.
+Use Nathan or Elaine as POV depending on scene pressure. Alternate when useful, but avoid mechanical switching.
 
 ## Structure
 

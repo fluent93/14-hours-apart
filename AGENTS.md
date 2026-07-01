@@ -26,7 +26,7 @@ When the author provides a new episode:
 ## Style Rules
 
 - Use close third person.
-- Alternate Daniel and Grace only when the scene benefits from it.
+- Alternate Nathan and Elaine only when the scene benefits from it.
 - Keep the tone mature, restrained, emotionally precise, literary but readable.
 - Let dialogue carry subtext.
 - Show cultural difference through choices, silences, habits, obligations, and misunderstandings.

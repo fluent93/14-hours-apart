@@ -11,7 +11,7 @@ This project is inspired by real emotional material, but it must be written as f
 - Exact institutions where identification creates privacy risk
 - Real private conversations in transcript-like form
 - Exact dates, sequences, or locations that expose private people
-- Personal details from Grace's life unless explicitly cleared and fictionalized
+- Personal details from Elaine's life unless explicitly cleared and fictionalized
 
 ## Required Transformations
 
@@ -29,7 +29,7 @@ Rutgers should become a fictional New Jersey state university unless the author 
 
 ## Character Rule
 
-Joyce and Changhan must both become fictional characters. Working names are Daniel Ryu and Grace Cho.
+The central characters should be treated as fictionalized characters. Current working names are Nathan Kim and Elaine Park. Victor Han is a composite character for the older Korean graduate student.
 
 ## Reader-Facing Rule
 

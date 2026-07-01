@@ -88,3 +88,26 @@ Then ask Codex to search Drive for a known episode document title.
 - Keep raw private memories in Google Docs until fictionalized.
 - Commit only cleaned Markdown, scene cards, outlines, drafts, and market package files.
 - Use read-only Drive scope unless there is a deliberate reason to let Codex write to Drive.
+
+## Troubleshooting: `invalid_request` After Authentication
+
+If Drive search worked previously but later fails with:
+
+```text
+invalid_request
+Could not determine client ID from request.
+```
+
+then the OAuth credentials may exist, but the running `@modelcontextprotocol/server-gdrive` process is not loading the OAuth client ID/secret when refreshing tokens.
+
+Checks that are safe to run:
+
+```bash
+codex mcp get gdrive
+ls -la /home/ubuntu/.config/codex-gdrive
+```
+
+The credentials and OAuth key files must remain outside the repository. Do not commit either file.
+
+In this session, the source document was still readable by using the same credential files with the Google Drive API while explicitly constructing the OAuth client from `gcp-oauth.keys.json`. If another environment sees the same MCP error, re-authenticate first. If the error persists, patch or update the local `@modelcontextprotocol/server-gdrive` package so `loadCredentialsAndRunServer()` creates `google.auth.OAuth2` with the client ID, client secret, and redirect URI from `GDRIVE_OAUTH_PATH` before calling `auth.setCredentials(credentials)`.
+

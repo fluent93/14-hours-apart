@@ -2,11 +2,11 @@
 
 ## Logline
 
-Twenty years after a brief, unfinished love at a New Jersey university, Daniel Ryu in Seoul and Grace Cho in New York reconnect across a fourteen-hour time difference and discover that loving each other may be easier than changing the lives they built apart.
+Twenty years after a brief, unfinished love at a New Jersey university, Nathan Kim in Seoul and Elaine Park in New York reconnect across a fourteen-hour time difference and discover that loving each other may be easier than changing the lives they built apart.
 
 ## Core Premise
 
-Daniel and Grace are Korean-born, successful, and no longer young enough to pretend love exists outside consequence. Their reconnection is tender and electric, but the real conflict is practical, moral, and emotional: career, family, immigration history, aging, obligation, and the quiet pride of people who survived by becoming self-contained.
+Nathan and Elaine are Korean-born, successful, and no longer young enough to pretend love exists outside consequence. Their reconnection is tender and electric, but the real conflict is practical, moral, and emotional: career, family, immigration history, aging, obligation, and the quiet pride of people who survived by becoming self-contained.
 
 ## Central Dramatic Question
 

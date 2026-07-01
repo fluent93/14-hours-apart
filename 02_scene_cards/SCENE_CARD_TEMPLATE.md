@@ -6,7 +6,7 @@ What does this scene do in the story?
 
 ## POV Character
 
-Daniel or Grace.
+Nathan or Elaine.
 
 ## Time and Place
 

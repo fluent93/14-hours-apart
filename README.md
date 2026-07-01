@@ -13,7 +13,7 @@ Long-form English novel project for Amazon KDP / Kindle.
 
 ## Core Question
 
-Daniel Ryu and Grace Cho lost each other once because they were too young to choose love. Twenty years later, they may lose each other again because their lives are too complete.
+Nathan Kim and Elaine Park lost each other once because they were too young to choose love. Twenty years later, they may lose each other again because their lives are too complete.
 
 The story is not simply about whether they love each other. They do. The real question is:
 

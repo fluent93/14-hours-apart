@@ -15,7 +15,7 @@
 
 ## Theme In Action
 
-Love should create pressure, not fantasy alone. The more Daniel and Grace reconnect, the more visible their existing lives become.
+Love should create pressure, not fantasy alone. The more Nathan and Elaine reconnect, the more visible their existing lives become.
 
 Success should not protect them from loneliness. It should complicate loneliness by making it socially invisible.
 

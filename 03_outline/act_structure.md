@@ -2,14 +2,14 @@
 
 ## Act 1 - The Reconnection
 
-Daniel in Seoul discovers Grace again through an alumni-related trigger, old message, online event, photo, or professional connection. Their first exchange seems casual but reopens something unresolved.
+Nathan in Seoul discovers Elaine again through an alumni-related trigger, old message, online event, photo, or professional connection. Their first exchange seems casual but reopens something unresolved.
 
-The act should establish Daniel's present life as competent, demanding, and emotionally narrowed. Grace should appear first as both real woman and memory: someone with her own authority, not merely someone Daniel lost.
+The act should establish Nathan's present life as competent, demanding, and emotionally narrowed. Elaine should appear first as both real woman and memory: someone with her own authority, not merely someone Nathan lost.
 
 Key movement:
 
-- Daniel's Seoul life is shown through responsibility and fatigue.
-- Grace's New York life is glimpsed through accomplishment and control.
+- Nathan's Seoul life is shown through responsibility and fatigue.
+- Elaine's New York life is glimpsed through accomplishment and control.
 - A small digital contact becomes emotionally disproportionate.
 - The first exchange leaves both of them unsettled.
 
@@ -53,14 +53,14 @@ Can a relationship be real if it exists in the hours stolen from two complete li
 
 ## Act 4 - The Lives They Built
 
-Grace faces her academic leadership responsibilities in New York. Daniel faces career, family, aging, and Seoul-based obligations. Love becomes not an escape but a threat to the lives they carefully built.
+Elaine faces her academic leadership responsibilities in New York. Nathan faces career, family, aging, and Seoul-based obligations. Love becomes not an escape but a threat to the lives they carefully built.
 
 This act should resist easy romantic logic. Their lives are not empty traps. They are meaningful structures built through sacrifice. The conflict should honor what each person would lose.
 
 Key movement:
 
-- Grace's public competence collides with private uncertainty.
-- Daniel's obligations become concrete and emotionally costly.
+- Elaine's public competence collides with private uncertainty.
+- Nathan's obligations become concrete and emotionally costly.
 - A visit, missed visit, crisis, or decision point exposes the limits of longing.
 - One or both characters pull back, not because love is absent, but because consequence is real.
 
@@ -77,7 +77,7 @@ The final act should give readers emotional completion while preserving adult re
 Key movement:
 
 - The old pattern of silence or self-protection is confronted.
-- Daniel and Grace speak more honestly than they did in youth.
+- Nathan and Elaine speak more honestly than they did in youth.
 - The final choice costs something, even if the cost is uncertainty.
 - The ending offers hope grounded in action.
 
